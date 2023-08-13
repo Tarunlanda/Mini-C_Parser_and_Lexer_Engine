@@ -1,0 +1,1 @@
+rm -r y.tab.c y.tab.h parser parser.h lex.yy.c
